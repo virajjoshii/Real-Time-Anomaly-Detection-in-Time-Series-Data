@@ -24,7 +24,7 @@ Ensure you have Python 3.8+ and pip installed on your machine.
 ### Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/real-time-anomaly-detection.git
+   git clone https://github.com/virajjoshii/real-time-anomaly-detection-in-time-series-data.git
    ```
 2. Navigate to the project directory:
    ```
